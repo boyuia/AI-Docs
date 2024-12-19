@@ -1,0 +1,41 @@
+.App {
+  width: 600px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.toolbar {
+  margin-bottom: 10px;
+}
+
+.toolbar button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  cursor: pointer;
+  color: black;
+}
+
+.toolbar button:hover {
+  background-color: #f0f0f0;
+}
